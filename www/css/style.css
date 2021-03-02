@@ -1,0 +1,137 @@
+﻿.container
+{
+width:100%;
+}
+.content
+{
+border:1px solid #dcdcdc;
+border-radius:4px;
+background-color: #e7e7e7;
+padding: 20px;
+padding-bottom: 0px;
+}
+.content1
+{
+padding: 20px;
+padding-bottom: 0px;
+}
+.content2
+{
+width:34%;
+position: absolute;
+left:33%;
+top:25%;
+}
+.content3
+{
+width:80%;
+position: absolute;
+left:10%;
+}
+.start
+{
+    padding: 20px;
+}
+.content_body
+{
+    width: 960px;
+}
+.header
+{
+    height:44px;
+    background: #3893ae;
+    border-top:3px solid #33869f;
+    width: 100%;
+    display:block;
+    box-sizing:content-box;
+}
+.header_in
+{
+    width:960px;
+    margin:0 auto;
+    padding:0;
+    display:block;
+    height:100%;
+}
+.header_menu
+{
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: block;
+    width: auto;
+}
+.header_menu_item
+{
+    color:#fff;
+    display:block;
+    float:left;
+    padding:0 14px 0;
+    height:44px;
+    margin-right:1px;
+    white-space:nowrap;
+    line-height:41px;
+    letter-spacing:-1px;
+}
+.header_sign
+{
+    height: 44px;
+    padding: 0 28px 0 41px;
+    float: right;
+    width: 207px;
+}
+.signin_a
+{
+    line-height: 38px;
+    color: #fff;
+    text-decoration:none;
+    cursor: pointer;
+}
+hr {
+    border: none; /* Убираем границу */
+    background-color: #337ab7; /* Цвет линии */
+    color: #337ab7; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    margin-top: 0px;
+   }
+   .navbar-default
+   {
+       background-color:#337ab7;
+   }
+   .navbar-default .navbar-brand 
+   {
+       color:#fff;
+   }
+   .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+   {
+       color:#fff;
+   }
+   .navbar-default .navbar-nav > li > a{
+       color:#fff;
+   }
+   .navbar-default .navbar-nav > li > a:hover{
+       color:#fff;
+   }
+   .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus
+   {
+       color:#fff;
+       background-color:#337ab7;
+   }
+   .head_title
+   {
+       color:#f0ad4e;
+       font-size: 19px;
+   }
+   .table
+   {
+       font-size: 14px;
+   }
+   .navbar-nav > li > a
+   {
+       padding-top:17px;
+   }
+   #footer {
+    position: fixed;
+    bottom: 0;
+    width: 96%;
+}
